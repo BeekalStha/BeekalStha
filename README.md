@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 - **Backend**: Laravel, PHP, PostgreSQL, MySQL, JWT, Queues, File Storage
-- **Frontend**: React.js, Next.js, Tailwind CSS, Material UI
+- **Frontend**: React.js, Next.js, Tailwind CSS, Shancn UI
 - **DevOps**: Git, GitHub, Docker, Vercel, Render
 - **Tools**: Postman, VS Code, Figma
 
